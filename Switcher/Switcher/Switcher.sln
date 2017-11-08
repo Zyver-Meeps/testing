@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "Switcher", "Switcher\Switcher.jsproj", "{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|Android.ActiveCfg = Debug|Android
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|Android.Build.0 = Debug|Android
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|Android.Deploy.0 = Debug|Android
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|iOS.ActiveCfg = Debug|iOS
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|iOS.Build.0 = Debug|iOS
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|iOS.Deploy.0 = Debug|iOS
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|Android.ActiveCfg = Release|Android
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|Android.Build.0 = Release|Android
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|Android.Deploy.0 = Release|Android
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|iOS.ActiveCfg = Release|iOS
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|iOS.Build.0 = Release|iOS
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|iOS.Deploy.0 = Release|iOS
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{12B9DEF3-CB7A-42B0-B212-93480D64E4EA}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {317E1910-6B68-4C2F-89DA-B8961BBF76B4}
+	EndGlobalSection
+EndGlobal
